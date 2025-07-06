@@ -1,73 +1,76 @@
-# Welcome to your Lovable project
+# Mukund Bansal - Developer Portfolio 🚀
 
-## Project info
+Welcome to my personal developer portfolio website — built with **React**, **TypeScript**, **Tailwind CSS**, **ShadCN UI**, and **Vite**.
 
-**URL**: https://lovable.dev/projects/9270268e-1249-4d7e-aa95-519883dcee0d
+🌐 **Live Demo**: [https://mukundbansal.netlify.app](https://mukundbansal.netlify.app)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🛠 Tech Stack
 
-**Use Lovable**
+- ⚛️ React
+- 🧠 TypeScript
+- 💨 Tailwind CSS
+- 💎 ShadCN (Radix + Tailwind components)
+- ⚡ Vite
+- 🌐 Netlify (for hosting)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9270268e-1249-4d7e-aa95-519883dcee0d) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Features
 
-**Use your preferred IDE**
+- Clean and responsive UI  
+- Light/Dark mode  
+- Modular and reusable components  
+- Easy to scale and extend
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠 Setup Instructions
 
-Follow these steps:
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Mukundbansal10/Mukundbansal_portfolio.git
+   cd Mukundbansal_portfolio
+````
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+2. **Install dependencies**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+   ```bash
+   npm install
+   ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+3. **Run the development server**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 🧪 Build for production
+
+```bash
+npm run build
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Deployment
 
-**Use GitHub Codespaces**
+This project is deployed on **Netlify**
+🔗 [https://mukundbansal.netlify.app](https://mukundbansal.netlify.app)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📬 Contact
 
-This project is built with:
+* 📧 Email: [mukundbansal.dev@gmail.com](mailto:mukundbansal.dev@gmail.com)
+* 🧑‍💻 Portfolio: [mukundbansal.netlify.app](https://mukundbansal.netlify.app)
+* 🐙 GitHub: [@Mukundbansal10](https://github.com/Mukundbansal10)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+> If you like this project, don’t forget to ⭐ the repo!
 
-Simply open [Lovable](https://lovable.dev/projects/9270268e-1249-4d7e-aa95-519883dcee0d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+```
