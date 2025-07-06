@@ -20,7 +20,7 @@ Welcome to my personal developer portfolio website — built with **React**, **T
 ## 🚀 Features
 
 - Clean and responsive UI  
-- Light/Dark mode  
+- Dark mode  
 - Modular and reusable components  
 - Easy to scale and extend
 
